@@ -1,2 +1,2 @@
-# playwright-technical-analysis
-playwright-technical-analysis
+# pplaywright-analysis
+playwright-analysis
